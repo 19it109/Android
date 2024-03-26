@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ClothingEcomApp" parent="ThemeOverlay.Material3.DynamicColors.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ClothingEcomApp" parent="Base.Theme.ClothingEcomApp" />
+
+        <!-- Background color -->
+        <color name="background_color">#FFFFFF</color>
+
+        <!-- Primary color (used for buttons, etc.) -->
+        <color name="primary_color">#1976D2</color>
+
+        <!-- Text color -->
+        <color name="text_color">#000000</color>
+
+        <!-- Error color (for TextInputLayout error text) -->
+        <color name="error_color">#FF0000</color>
+
+        <!-- Custom color for your theme -->
+        <color name="custom_color">#FF5722</color>
+
+        <!-- Example color palette -->
+        <color name="colorPrimary">#3F51B5</color>
+        <color name="colorPrimaryDark">#303F9F</color>
+        <color name="colorAccent">#FF4081</color>
+
+
+</resources>

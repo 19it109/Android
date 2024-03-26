@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183846051472",
+    "project_id": "clothingecom30",
+    "storage_bucket": "clothingecom30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183846051472:android:de722fc9fe724e06728215",
+        "android_client_info": {
+          "package_name": "com.shivam_patel.clothingecomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvEaNly61wK6wJTVOuY4K6BSBAHzrnuVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
